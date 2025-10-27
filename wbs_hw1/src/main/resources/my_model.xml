@@ -1,0 +1,13 @@
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"
+        xmlns:j.0="http://xmlns.com/foaf/0.1/">
+    <rdf:Description rdf:about="https://www.linkedin.com/in/snezhana-koleva-2240182bb/">
+        <j.0:homepage rdf:resource="https://portfolio.snezana.dev"/>
+        <j.0:gender>female</j.0:gender>
+        <j.0:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >22</j.0:age>
+        <vcard:NICKNAME>Sneze</vcard:NICKNAME>
+        <vcard:FN>Snezhana Koleva</vcard:FN>
+    </rdf:Description>
+</rdf:RDF>
